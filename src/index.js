@@ -1,26 +1,14 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+/*import App from './App';*/
 import MediaCard from './MediaCard';
 import Contact from './Contact';
 
 import * as serviceWorker from './serviceWorker';
 
 
-function Hi(){
-return <div>
-  <h1>Portfolio</h1>
-  <strong>Hello world, yes! Do you know 5 + 10 = {10+5}</strong>
-  </div>
-}
 
-function Hello(){
-  return <div>
-    <h1>Hello</h1>
-    <strong>Hello world, yes! Do you know 5 + 10 = {10+5}</strong>
-    </div>
-  }
   
 
 
